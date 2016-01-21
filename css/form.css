@@ -1,0 +1,204 @@
+﻿.ec-form .ec-required:after {
+	content: " *";
+	color: #a94442;
+}
+
+.ec-form h1 {
+	font-family: HelveticaNeueW01-45Ligh;
+	font-size: 40px;
+	margin-bottom: 30px;
+}
+
+.ec-form h2 {
+	font-family: HelveticaNeueW01-45Ligh;
+	font-size: 30px;
+	padding-bottom: 9px;
+	margin-bottom: 0px;
+}
+
+.ec-form h2 .label {
+	font-family: HelveticaNeueW01-65Medi;
+	font-size: 30px;
+}
+
+.ec-form h4 {
+	font-family: HelveticaNeueW01-55Roma;
+	font-size: 18px;
+	margin-top: 30px;
+	margin-bottom: 12px;
+}
+
+.ec-form h4 a {
+	cursor: pointer;
+}
+
+.ec-form input, .ec-form textarea, .ec-form select {
+	font-family: HelveticaNeueW01-55Roma;
+	font-size: 16px;
+}
+
+.ec-form .text-muted {
+	font-family: HelveticaNeueW01-55Roma;
+	font-size: 14px;
+	color: #333;
+}
+
+.ec-form .text-muted .label {
+	font-family: HelveticaNeueW01-65Medi;
+	font-weight: 500;
+}
+
+.ec-form .text-muted b {
+	font-family: HelveticaNeueW01-65Medi;
+	font-weight: 500;
+}
+
+.ec-form .text-info {
+	font-family: HelveticaNeueW01-55Roma;
+	font-size: 16px;
+	color: black;
+}
+
+.ec-form .help-block {
+	font-family: HelveticaNeueW01-55Roma;
+	font-size: 14px;
+	margin-bottom: 0px;
+}
+
+.ec-form .form-group {
+	margin-bottom: 0px;
+}
+
+.ec-form .form-group.form-subgroup {
+	margin-bottom: 12px;
+}
+
+.ec-form .ec-tag {
+	margin-right: 7px; 
+	margin-bottom: 7px;
+}
+
+.ec-form .radio, .ec-form .checkbox {
+	font-family: HelveticaNeueW01-55Roma;
+	font-size: 16px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.ec-form .radio + .radio, .ec-form .checkbox + .checkbox {
+	margin-top: 7px;
+}
+
+.ec-form .radio-inline {
+	font-family: HelveticaNeueW01-55Roma;
+	font-size: 16px;
+}
+
+.ec-form .radio input[type="radio"], .ec-form .checkbox input[type="checkbox"] {
+	margin-top: 6px;
+}
+
+.ec-form .ec-checkbox-header {
+	margin-top: 30px;
+	margin-bottom: 12px;
+}
+
+.ec-form .ec-checkbox-header th {
+	width: 20px;
+	vertical-align: top;
+}
+
+.ec-form .ec-checkbox-header td label {
+	font-family: HelveticaNeueW01-55Roma;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 1.1;
+	cursor: pointer;
+}
+
+.ec-form blockquote {
+	margin-bottom: 0px;
+	font-family: HelveticaNeueW01-55Roma;
+	font-size: 14px;
+	color: #333;
+}
+
+.ec-form .ec-actions .btn {
+	font-family: HelveticaNeueW01-55Roma;
+	font-size: 16px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+
+.ec-form .ec-actions .btn-success {
+	background-color: #4b8400;
+}
+
+.ec-form .alert {
+	margin-top: 20px;
+}
+
+.ec-form a.list-group-item {
+	cursor: pointer;
+}
+
+
+
+
+.ec-form .nav {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}	
+
+.ec-form .nav li a {
+	border: 2px solid #fff;
+	background-color: #f3f2f1;
+	cursor: pointer;
+	border-radius: 0 0 0 0;
+	font-family: HelveticaNeueW01-65Medi;
+	font-size: 16px;
+	color: #555;
+}
+
+.ec-form .nav li a:hover {
+	text-decoration: underline;
+}
+
+.ec-form .nav li.active a, .ec-form .nav li.active a:hover {
+	border: 2px solid #fff;
+	border-top: 2px solid #00b1d9;
+	background-color: #fff;
+	border-radius: 0 0 0 0;
+	font-family: HelveticaNeueW01-75Bold;
+	color: black;
+}
+
+@media (max-width: 767px) {
+
+	.ec-form .nav li.active a, .ec-find .nav li.active a:hover {
+		border: 2px solid #00b1d9;
+	}
+
+}
+
+
+
+.ec-form .breadcrumb {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: transparent;
+	font-family: HelveticaNeueW01-65Medi;
+	font-size: 16px;
+	padding: 0;
+
+}
+
+.ec-form .well h3 {
+	font-family: HelveticaNeueW01-Thin;
+	margin-top: 0;
+	font-size: 30px;
+	font-weight: normal;
+}
+
