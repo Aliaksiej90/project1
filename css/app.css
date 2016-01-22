@@ -62,7 +62,7 @@ src:url("../fonts/dba232c1-9c23-4a6c-aa91-659205e8e868.eot?#iefix") format("eot"
 
 
 .navbar-bg {
-	background-color: #0074a2;
+	background-color: #EEE9E9;
 	min-height: 70px; 
 	margin-bottom: 0px;
 }
@@ -121,7 +121,7 @@ src:url("../fonts/dba232c1-9c23-4a6c-aa91-659205e8e868.eot?#iefix") format("eot"
 
 
 .bg-welcome {
-	background-color: #CDC0B0;
+	background-color: #FF0000;
 	padding-top: 30px;
 	padding-bottom: 30px;
 	color: white;
