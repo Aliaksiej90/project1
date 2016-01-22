@@ -1,5 +1,5 @@
 It's my first project!
-This's sait for create new games
+This's sait for create new border games
 
 First version.
 

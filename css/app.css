@@ -71,7 +71,7 @@ src:url("../fonts/dba232c1-9c23-4a6c-aa91-659205e8e868.eot?#iefix") format("eot"
 	display: block;
 	width: 40px;
 	height: 40px;
-	background: url(../img/ec_brand.svg);
+	background: url(../img/bg_logo.png);
 	background-size: 40px 40px;
 }
 
@@ -110,7 +110,7 @@ src:url("../fonts/dba232c1-9c23-4a6c-aa91-659205e8e868.eot?#iefix") format("eot"
 
 	.navbar-bg .navbar-nav > li.active > a, .navbar-bg .navbar-nav > li.active > a:focus, .navbar-bg .navbar-nav > li.active > a:hover {
 		font-family: HelveticaNeueW01-65Medi;
-		background-color: #0074a2;
+		background-color: #EEE9E9;
 		color: white;
 	}
 
@@ -121,7 +121,7 @@ src:url("../fonts/dba232c1-9c23-4a6c-aa91-659205e8e868.eot?#iefix") format("eot"
 
 
 .bg-welcome {
-	background-color: #0074a2;
+	background-color: #CDC0B0;
 	padding-top: 30px;
 	padding-bottom: 30px;
 	color: white;
@@ -173,7 +173,7 @@ src:url("../fonts/dba232c1-9c23-4a6c-aa91-659205e8e868.eot?#iefix") format("eot"
 
 
 .bg-dashboard {
-	background-color: #006086;
+	background-color: #CDC0B0;
 	padding-top: 30px;
 	color: white;
 }
@@ -214,7 +214,7 @@ src:url("../fonts/dba232c1-9c23-4a6c-aa91-659205e8e868.eot?#iefix") format("eot"
 
 .bg-dashboard a.btn-default {
 	font-family: HelveticaNeueW01-65Medi;	
-	background-color: #006086;
+	background-color: #CDC0B0;
 	color: white;
 	padding: 10px 40px 10px 40px;
 	font-size: 21px;
@@ -259,7 +259,7 @@ src:url("../fonts/dba232c1-9c23-4a6c-aa91-659205e8e868.eot?#iefix") format("eot"
 
 
 .bg-toolbox {
-	background-color: #68C6F2;
+	background-color: #8B8682;
 	padding-top: 20px;
 	padding-bottom: 25px;
 }
@@ -295,7 +295,7 @@ src:url("../fonts/dba232c1-9c23-4a6c-aa91-659205e8e868.eot?#iefix") format("eot"
 
 
 .bg-xbox {
-	background-color: #83d0f4;
+	background-color: #8B8682;
 	padding-top: 15px;
 	padding-bottom: 15px;
 }
@@ -460,9 +460,9 @@ src:url("../fonts/dba232c1-9c23-4a6c-aa91-659205e8e868.eot?#iefix") format("eot"
 .bg-search-results .pager .selected > span, .bg-calendar-records .pager .selected > span, .bg-archive-records .pager .selected > span {
 	cursor: not-allowed;
 	color: #fff;
-	background-color: #5cb85c;
+	background-color: #8B8682;
 	border-color: #4cae4c;
-	background-color: #5bc0de;
+	background-color: #8B8682;
 	border-color: #46b8da;	
 }
 
