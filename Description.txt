@@ -1,0 +1,17 @@
+My name's Aliaksei. I'm a Lotus Domino developer and Web developer with 2 years of direct experience in the area. Before that I worked with PL/SQL. 
+
+I graduated from Belarusian National Technical University in 2014 (two thousand and fourteen).
+
+I started working for IBA in 2014. Since then I have taken part in a number of projects.
+
+Last year I took part in a project for IBM. It was a big project  with many applications. It was called Cybersecurity & Privacy for IBMers 2015. Our task was to build responsible webUI using bootstrap framework, JavaScript and jQuery. I developed part of one application called Cybersecurity 2015 (Cybersecurity two thousand and fifteen). Twitter bootstrap has  twelve-column grid layout and many useful components for fast applying. We used a lot of JavaScript components such  as Collapse, Modals, Tabs, Dropdown menus and others. It was a good experience for me.
+
+Another project where I used xPages was the Application processing query for National Cadastral Agency. The application is meant to create and process information about immovable property. 
+It was LN-native application, it was necessary to provide access to external users. Since not all of them had an LN, the customer decided to develop  and use a web-based interface. This was necessary to ensure high performance.
+To speed up the design process and simplify its further support, we proposed to use OneUI. We started working with Domino server version 8.5 and  prepared a prototype interface  with OneUI version 2. Then we helped to plan and upgrade the customer server to 9 and further development was already OneUI v3.
+Our team created a new web-enablement on xPages. We added new funcionality, redesigned, fixed and improved the existing app features, which resulted in faster app performance, security and usability. We applied following technologies: Java Script, xPages, HTML, CSS, oneUI v2/v3, xPages Extention Library.
+
+About using Extension Library:
+We applied different controls from Extension Library such as Application Layout, Dialog, Form Table, Data View, Pager.
+
+As an employee I’m hard-working, responsible and communicative. I’m also quite good at meeting deadline and have good social skills.
